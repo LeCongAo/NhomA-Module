@@ -74,6 +74,58 @@ $url_path = str_replace('\\', '/', $url_path);
 
                         </div>
                     </div>
+                    <div class="title-wrap">
+                        <h2 class="widget-title">Follow Us</h2>
+                    </div>
+                    <div class="widget-social-27">
+                        <a href="#" class="icon"><span class="fa fa-facebook"></span></a>
+                        <a href="#" class="icon"> <span class="fa fa-twitter"></span></a>
+                        <a href="#" class="icon"><span class="fa fa-google"></span></a>
+                        <a href="#" class="icon"><span class="fa fa-linkedin"></span></a>
+                        <a href="#" class="icon"><span class="fa fa-pinterest"></span></a>
+                        <a href="#" class="icon"><span class="fa fa-youtube"></span></a>
+                        <a href="#" class="icon"><span class="fa fa-flickr"></span></a>
+                        <a href="#" class="icon"><span class="fa fa-behance"></span></a>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 col-6">
+                    <div class="title-wrap">
+                        <h2 class="widget-title">Instagram</h2>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 col-6">
+                    <div class="title-wrap">
+                        <h2 class="widget-title">Tag</h2>
+                    </div>
+                    <div class="tags-title">
+                        <ul class="nav nav-pills mb-3">
+                            <li> <a href="#" class="tags">ancient</a></li>
+                            <li> <a href="#" class="tags">art</a></li>
+                            <li> <a href="#" class="tags">baltic</a></li>
+                            <li> <a href="#" class="tags">beach</a></li>
+                            <li> <a href="#" class="tags">capital</a></li>
+                            <li> <a href="#" class="tags">east</a></li>
+                            <li> <a href="#" class="tags">food</a></li>
+                            <li><a href="#" class="tags">museum</a></li>
+                            <li><a href="#" class="tags">nightlife</a></li>
+                            <li><a href="#" class="tags">no sleep</a></li>
+                            <li><a href="#" class="tags">party</a></li>
+                            <li> <a href="#" class="tags">russia</a></li>
+                            <li><a href="#" class="tags">sea</a></li>
+                            <li><a href="#" class="tags">serbia</a></li>
+                            <li><a href="#" class="tags">slavic</a></li>
+                            <li> <a href="#" class="tags">spain</a></li>
+                            <li><a href="#" class="tags">stallingrad</a></li>
+                            <li><a href="#" class="tags">street</a></li>
+                            <li><a href="#" class="tags">sunny</a></li>
+                            <li><a href="#" class="tags">sweden</a></li>
+                            <li> <a href="#" class="tags">usa</a></li>
+                            <li><a href="#" class="tags">vacation</a></li>
+                        </ul>
+                    </div>
+                    <div class="title-wrap">
+                        <h2 class="widget-title">Search</h2>
+                    </div>
                 </div>
             </div>
         </div>

@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+.module-14 {
+  font-family: 'Work Sans', sans-serif;
+}
+.module-14 .article-caption {
+  font-size: 16px;
+}
+.module-14 .blog-item-meta:before {
+  content: ' ';
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  width: 20px;
+  height: 2px;
+  border-radius: 1px;
+  background: #f8c12c;
+}
+.module-14 .blog-item {
+  border-radius: 2px;
+  overflow: hidden;
+  display: block;
+  position: relative;
+}
+.module-14 .blog-item-title {
+  margin-bottom: 0px;
+  font-size: 26px;
+  color: #484848;
+}
+.module-14 .blog-item-title a:hover {
+  text-decoration: none;
+  color: #f8c12c;
+  transition: all ease 0.5s;
+}
+.module-14 .blog-item-meta {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  font-size: 85%;
+  margin-top: 10px;
+}
+.module-14 .blog-item-meta a {
+  color: #484848;
+  text-decoration: none;
+}
+.module-14 .blog-item-meta a:hover {
+  transition: ease all 0.5s;
+  color: #f8c12c;
+}
+.module-14 h1,
+.module-14 h2,
+.module-14 h3,
+.module-14 h4,
+.module-14 h5,
+.module-14 h6,
+.module-14 .blog-item-title a,
+.module-14 .blog-item-title a {
+  margin: 10px 0px;
+  line-height: 1.4;
+  color: #000;
+  font-weight: 700;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}

@@ -12,7 +12,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="module-26">
-    <div class="footer-blog-icon">
+    <!-- <div class="footer-blog-icon">
         <div class="container">
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-6">
@@ -33,5 +33,9 @@ $url_path = str_replace('\\', '/', $url_path);
                 
             </div>
         </div>
+    </div> -->
+    <div class="copyrights ">
+        <div class="container text-center">
+            Crafted with <i class="fa fa-heart"></i> by DJMiMi </div>
     </div>
 </div>

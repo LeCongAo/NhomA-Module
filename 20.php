@@ -11,8 +11,8 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-<div class="module-19">
-    <div class="container">
-        <a href="#"> <img src="http://<?php echo $url_path ?>/images/hinh20.png" alt="img 1" class="img-fluid"></a>
-    </div>
+<div class="module-20">
+<div class="blog-media">
+    
+</div>
 </div>

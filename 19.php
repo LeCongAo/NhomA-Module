@@ -12,11 +12,10 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 <div class="module-19">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12 col-lg-12 col-md-12 col-12">
-                <a href="#"> <img src="http://<?php echo $url_path ?>/images/19.png" alt="img 1" class="img-fluid"></a>
-            </div>
+    <div class="filter-title">
+        <div class="container">
+            <h4>
+                Category: Russia </h4>
         </div>
     </div>
 </div>
